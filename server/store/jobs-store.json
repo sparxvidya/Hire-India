@@ -1,0 +1,2662 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹16–24 LPA",
+    "category": "Engineering",
+    "logo": "G",
+    "color": "#4285F4",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Python"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://careers.google.com"
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer (Node.js)",
+    "company": "Microsoft",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹15–24 LPA",
+    "category": "Engineering",
+    "logo": "M",
+    "color": "#00A4EF",
+    "tags": [
+      "Node.js",
+      "Java",
+      "AWS"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "Amazon",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹18–28 LPA",
+    "category": "Engineering",
+    "logo": "A",
+    "color": "#FF9900",
+    "tags": [
+      "TypeScript",
+      "Python",
+      "Kubernetes"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://amazon.jobs"
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "company": "TCS",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹21–32 LPA",
+    "category": "Engineering",
+    "logo": "T",
+    "color": "#CC0000",
+    "tags": [
+      "Java",
+      "AWS",
+      "Go"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://ibegin.tcs.com/iBegin"
+  },
+  {
+    "id": 5,
+    "title": "Site Reliability Engineer",
+    "company": "Infosys",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹24–36 LPA",
+    "category": "Engineering",
+    "logo": "I",
+    "color": "#007CC3",
+    "tags": [
+      "Python",
+      "Kubernetes",
+      "GraphQL"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.infosys.com/careers"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Developer (Android)",
+    "company": "Wipro",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹27–40 LPA",
+    "category": "Engineering",
+    "logo": "W",
+    "color": "#974099",
+    "tags": [
+      "AWS",
+      "Go",
+      "Microservices"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
+    "id": 7,
+    "title": "iOS Developer",
+    "company": "Flipkart",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹30–44 LPA",
+    "category": "Engineering",
+    "logo": "F",
+    "color": "#2874F0",
+    "tags": [
+      "Kubernetes",
+      "GraphQL",
+      "React"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://www.flipkartcareers.com"
+  },
+  {
+    "id": 8,
+    "title": "Cloud Infrastructure Engineer",
+    "company": "Swiggy",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹33–48 LPA",
+    "category": "Engineering",
+    "logo": "S",
+    "color": "#FC8019",
+    "tags": [
+      "Go",
+      "Microservices",
+      "Node.js"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
+    "id": 9,
+    "title": "QA Automation Engineer",
+    "company": "Zomato",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹36–52 LPA",
+    "category": "Engineering",
+    "logo": "Z",
+    "color": "#E23744",
+    "tags": [
+      "GraphQL",
+      "React",
+      "TypeScript"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.zomato.com/careers"
+  },
+  {
+    "id": 10,
+    "title": "Software Engineer II",
+    "company": "Razorpay",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹39–56 LPA",
+    "category": "Engineering",
+    "logo": "R",
+    "color": "#3395FF",
+    "tags": [
+      "Microservices",
+      "Node.js",
+      "Java"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://razorpay.com/jobs"
+  },
+  {
+    "id": 11,
+    "title": "Staff Software Engineer",
+    "company": "PhonePe",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹57–75 LPA",
+    "category": "Engineering",
+    "logo": "P",
+    "color": "#5F259F",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Python"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": 12,
+    "title": "Platform Engineer",
+    "company": "HCLTech",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹45–64 LPA",
+    "category": "Engineering",
+    "logo": "H",
+    "color": "#0070C0",
+    "tags": [
+      "Node.js",
+      "Java",
+      "AWS"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.hcltech.com/careers"
+  },
+  {
+    "id": 13,
+    "title": "Security Engineer",
+    "company": "Ola",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹48–56 LPA",
+    "category": "Engineering",
+    "logo": "O",
+    "color": "#D4A017",
+    "tags": [
+      "TypeScript",
+      "Python",
+      "Kubernetes"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://www.olacabs.com/careers"
+  },
+  {
+    "id": 14,
+    "title": "Embedded Systems Engineer",
+    "company": "Paytm",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹13–22 LPA",
+    "category": "Engineering",
+    "logo": "P",
+    "color": "#00BAF2",
+    "tags": [
+      "Java",
+      "AWS",
+      "Go"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://jobs.lever.co/paytm"
+  },
+  {
+    "id": 15,
+    "title": "Java Backend Developer",
+    "company": "Meesho",
+    "location": "Gurugram",
+    "type": "Contract",
+    "salary": "₹16–26 LPA",
+    "category": "Engineering",
+    "logo": "M",
+    "color": "#9B2AFF",
+    "tags": [
+      "Python",
+      "Kubernetes",
+      "GraphQL"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://meesho.io/careers"
+  },
+  {
+    "id": 16,
+    "title": "Python Developer",
+    "company": "BYJU'S",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "₹19–30 LPA",
+    "category": "Engineering",
+    "logo": "B",
+    "color": "#7B2FF7",
+    "tags": [
+      "AWS",
+      "Go",
+      "Microservices"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://byjus.com/careers"
+  },
+  {
+    "id": 17,
+    "title": "React Native Developer",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹22–34 LPA",
+    "category": "Engineering",
+    "logo": "A",
+    "color": "#FA0F00",
+    "tags": [
+      "Kubernetes",
+      "GraphQL",
+      "React"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://careers.adobe.com"
+  },
+  {
+    "id": 18,
+    "title": "Engineering Manager",
+    "company": "Salesforce",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹34–47 LPA",
+    "category": "Engineering",
+    "logo": "S",
+    "color": "#00A1E0",
+    "tags": [
+      "Go",
+      "Microservices",
+      "Node.js"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.salesforce.com"
+  },
+  {
+    "id": 19,
+    "title": "Solutions Architect",
+    "company": "Oracle",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹38–52 LPA",
+    "category": "Engineering",
+    "logo": "O",
+    "color": "#F80000",
+    "tags": [
+      "GraphQL",
+      "React",
+      "TypeScript"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://www.oracle.com/careers"
+  },
+  {
+    "id": 20,
+    "title": "Systems Engineer",
+    "company": "IBM",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹31–46 LPA",
+    "category": "Engineering",
+    "logo": "I",
+    "color": "#0F62FE",
+    "tags": [
+      "Microservices",
+      "Node.js",
+      "Java"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://www.ibm.com/careers"
+  },
+  {
+    "id": 21,
+    "title": "Product Manager",
+    "company": "SAP Labs India",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹20–28 LPA",
+    "category": "Product",
+    "logo": "S",
+    "color": "#0FAAFF",
+    "tags": [
+      "Roadmap",
+      "SQL",
+      "Analytics"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://jobs.sap.com"
+  },
+  {
+    "id": 22,
+    "title": "Senior Product Manager",
+    "company": "Accenture",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹24–33 LPA",
+    "category": "Product",
+    "logo": "A",
+    "color": "#A100FF",
+    "tags": [
+      "Agile",
+      "Figma",
+      "A/B Testing"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "id": 23,
+    "title": "Associate Product Manager",
+    "company": "Cognizant",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹15–25 LPA",
+    "category": "Product",
+    "logo": "C",
+    "color": "#1A4CA1",
+    "tags": [
+      "SQL",
+      "Analytics",
+      "Stakeholder Mgmt"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://careers.cognizant.com"
+  },
+  {
+    "id": 24,
+    "title": "Product Owner",
+    "company": "Capgemini",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹24–35 LPA",
+    "category": "Product",
+    "logo": "C",
+    "color": "#0070AD",
+    "tags": [
+      "Figma",
+      "A/B Testing",
+      "JIRA"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://www.capgemini.com/in-en/careers"
+  },
+  {
+    "id": 25,
+    "title": "Technical Product Manager",
+    "company": "Tech Mahindra",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹36–48 LPA",
+    "category": "Product",
+    "logo": "T",
+    "color": "#E31E24",
+    "tags": [
+      "Analytics",
+      "Stakeholder Mgmt",
+      "Roadmap"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
+    "id": 26,
+    "title": "Growth Product Manager",
+    "company": "LTIMindtree",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹41–54 LPA",
+    "category": "Product",
+    "logo": "L",
+    "color": "#EA0029",
+    "tags": [
+      "A/B Testing",
+      "JIRA",
+      "Agile"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://careers.ltimindtree.com"
+  },
+  {
+    "id": 27,
+    "title": "Product Analyst",
+    "company": "Zoho",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹33–47 LPA",
+    "category": "Product",
+    "logo": "Z",
+    "color": "#E42527",
+    "tags": [
+      "Stakeholder Mgmt",
+      "Roadmap",
+      "SQL"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://www.zoho.com/careers"
+  },
+  {
+    "id": 28,
+    "title": "Product Marketing Manager",
+    "company": "Freshworks",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹49–64 LPA",
+    "category": "Product",
+    "logo": "F",
+    "color": "#38C1A2",
+    "tags": [
+      "JIRA",
+      "Agile",
+      "Figma"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://www.freshworks.com/company/careers"
+  },
+  {
+    "id": 29,
+    "title": "Product Operations Manager",
+    "company": "Myntra",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹53–69 LPA",
+    "category": "Product",
+    "logo": "M",
+    "color": "#FF3F6C",
+    "tags": [
+      "Roadmap",
+      "SQL",
+      "Analytics"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.myntra.com"
+  },
+  {
+    "id": 30,
+    "title": "Director of Product",
+    "company": "Nykaa",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹57–74 LPA",
+    "category": "Product",
+    "logo": "N",
+    "color": "#FC2779",
+    "tags": [
+      "Agile",
+      "Figma",
+      "A/B Testing"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.nykaa.com/careers"
+  },
+  {
+    "id": 31,
+    "title": "Group Product Manager",
+    "company": "CRED",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹61–79 LPA",
+    "category": "Product",
+    "logo": "C",
+    "color": "#1C1C1E",
+    "tags": [
+      "SQL",
+      "Analytics",
+      "Stakeholder Mgmt"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.cred.club"
+  },
+  {
+    "id": 32,
+    "title": "Product Manager - Payments",
+    "company": "Groww",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹65–80 LPA",
+    "category": "Product",
+    "logo": "G",
+    "color": "#00D09C",
+    "tags": [
+      "Figma",
+      "A/B Testing",
+      "JIRA"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://groww.in/careers"
+  },
+  {
+    "id": 33,
+    "title": "Product Manager - Fintech",
+    "company": "Zerodha",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹69–77 LPA",
+    "category": "Product",
+    "logo": "Z",
+    "color": "#387ED1",
+    "tags": [
+      "Analytics",
+      "Stakeholder Mgmt",
+      "Roadmap"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://zerodha.com/careers"
+  },
+  {
+    "id": 34,
+    "title": "Product Manager - AI/ML",
+    "company": "Dream11",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹73–80 LPA",
+    "category": "Product",
+    "logo": "D",
+    "color": "#EC1D24",
+    "tags": [
+      "A/B Testing",
+      "JIRA",
+      "Agile"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://www.dream11.com/careers"
+  },
+  {
+    "id": 35,
+    "title": "Product Strategy Lead",
+    "company": "Uber India",
+    "location": "Gurugram",
+    "type": "Contract",
+    "salary": "₹23–33 LPA",
+    "category": "Product",
+    "logo": "U",
+    "color": "#000000",
+    "tags": [
+      "Stakeholder Mgmt",
+      "Roadmap",
+      "SQL"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://www.uber.com/careers"
+  },
+  {
+    "id": 36,
+    "title": "UX Product Manager",
+    "company": "Google",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "₹27–38 LPA",
+    "category": "Product",
+    "logo": "G",
+    "color": "#4285F4",
+    "tags": [
+      "JIRA",
+      "Agile",
+      "Figma"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.google.com"
+  },
+  {
+    "id": 37,
+    "title": "Platform Product Manager",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹31–43 LPA",
+    "category": "Product",
+    "logo": "M",
+    "color": "#00A4EF",
+    "tags": [
+      "Roadmap",
+      "SQL",
+      "Analytics"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
+    "id": 38,
+    "title": "Product Manager - Growth",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹35–48 LPA",
+    "category": "Product",
+    "logo": "A",
+    "color": "#FF9900",
+    "tags": [
+      "Agile",
+      "Figma",
+      "A/B Testing"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://amazon.jobs"
+  },
+  {
+    "id": 39,
+    "title": "Junior Product Manager",
+    "company": "TCS",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹16–30 LPA",
+    "category": "Product",
+    "logo": "T",
+    "color": "#CC0000",
+    "tags": [
+      "SQL",
+      "Analytics",
+      "Stakeholder Mgmt"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://ibegin.tcs.com/iBegin"
+  },
+  {
+    "id": 40,
+    "title": "Head of Product",
+    "company": "Infosys",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹43–58 LPA",
+    "category": "Product",
+    "logo": "I",
+    "color": "#007CC3",
+    "tags": [
+      "Figma",
+      "A/B Testing",
+      "JIRA"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://www.infosys.com/careers"
+  },
+  {
+    "id": 41,
+    "title": "Data Scientist",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹10–18 LPA",
+    "category": "Data",
+    "logo": "W",
+    "color": "#974099",
+    "tags": [
+      "Python",
+      "PyTorch",
+      "LLMs"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
+    "id": 42,
+    "title": "Senior Data Scientist",
+    "company": "Flipkart",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹18–27 LPA",
+    "category": "Data",
+    "logo": "F",
+    "color": "#2874F0",
+    "tags": [
+      "SQL",
+      "TensorFlow",
+      "Spark"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.flipkartcareers.com"
+  },
+  {
+    "id": 43,
+    "title": "Data Analyst",
+    "company": "Swiggy",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹16–26 LPA",
+    "category": "Data",
+    "logo": "S",
+    "color": "#FC8019",
+    "tags": [
+      "PyTorch",
+      "LLMs",
+      "ML"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
+    "id": 44,
+    "title": "Data Engineer",
+    "company": "Zomato",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹19–30 LPA",
+    "category": "Data",
+    "logo": "Z",
+    "color": "#E23744",
+    "tags": [
+      "TensorFlow",
+      "Spark",
+      "Statistics"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://www.zomato.com/careers"
+  },
+  {
+    "id": 45,
+    "title": "Senior Data Engineer",
+    "company": "Razorpay",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹30–42 LPA",
+    "category": "Data",
+    "logo": "R",
+    "color": "#3395FF",
+    "tags": [
+      "LLMs",
+      "ML",
+      "Airflow"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://razorpay.com/jobs"
+  },
+  {
+    "id": 46,
+    "title": "Machine Learning Engineer",
+    "company": "PhonePe",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹25–38 LPA",
+    "category": "Data",
+    "logo": "P",
+    "color": "#5F259F",
+    "tags": [
+      "Spark",
+      "Statistics",
+      "Tableau"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": 47,
+    "title": "AI/ML Engineer",
+    "company": "HCLTech",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹28–42 LPA",
+    "category": "Data",
+    "logo": "H",
+    "color": "#0070C0",
+    "tags": [
+      "ML",
+      "Airflow",
+      "Python"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://www.hcltech.com/careers"
+  },
+  {
+    "id": 48,
+    "title": "Business Intelligence Analyst",
+    "company": "Ola",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹31–46 LPA",
+    "category": "Data",
+    "logo": "O",
+    "color": "#D4A017",
+    "tags": [
+      "Statistics",
+      "Tableau",
+      "SQL"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://www.olacabs.com/careers"
+  },
+  {
+    "id": 49,
+    "title": "Data Architect",
+    "company": "Paytm",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹46–62 LPA",
+    "category": "Data",
+    "logo": "P",
+    "color": "#00BAF2",
+    "tags": [
+      "Airflow",
+      "Python",
+      "PyTorch"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://jobs.lever.co/paytm"
+  },
+  {
+    "id": 50,
+    "title": "Analytics Manager",
+    "company": "Meesho",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹50–67 LPA",
+    "category": "Data",
+    "logo": "M",
+    "color": "#9B2AFF",
+    "tags": [
+      "Tableau",
+      "SQL",
+      "TensorFlow"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://meesho.io/careers"
+  },
+  {
+    "id": 51,
+    "title": "Big Data Engineer",
+    "company": "BYJU'S",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹40–58 LPA",
+    "category": "Data",
+    "logo": "B",
+    "color": "#7B2FF7",
+    "tags": [
+      "Python",
+      "PyTorch",
+      "LLMs"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://byjus.com/careers"
+  },
+  {
+    "id": 52,
+    "title": "NLP Engineer",
+    "company": "Adobe",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹43–62 LPA",
+    "category": "Data",
+    "logo": "A",
+    "color": "#FA0F00",
+    "tags": [
+      "SQL",
+      "TensorFlow",
+      "Spark"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://careers.adobe.com"
+  },
+  {
+    "id": 53,
+    "title": "Computer Vision Engineer",
+    "company": "Salesforce",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹46–54 LPA",
+    "category": "Data",
+    "logo": "S",
+    "color": "#00A1E0",
+    "tags": [
+      "PyTorch",
+      "LLMs",
+      "ML"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://careers.salesforce.com"
+  },
+  {
+    "id": 54,
+    "title": "MLOps Engineer",
+    "company": "Oracle",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹49–58 LPA",
+    "category": "Data",
+    "logo": "O",
+    "color": "#F80000",
+    "tags": [
+      "TensorFlow",
+      "Spark",
+      "Statistics"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://www.oracle.com/careers"
+  },
+  {
+    "id": 55,
+    "title": "Quantitative Analyst",
+    "company": "IBM",
+    "location": "Gurugram",
+    "type": "Contract",
+    "salary": "₹52–62 LPA",
+    "category": "Data",
+    "logo": "I",
+    "color": "#0F62FE",
+    "tags": [
+      "LLMs",
+      "ML",
+      "Airflow"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://www.ibm.com/careers"
+  },
+  {
+    "id": 56,
+    "title": "Data Science Intern",
+    "company": "SAP Labs India",
+    "location": "Remote",
+    "type": "Internship",
+    "salary": "₹6–9 LPA",
+    "category": "Data",
+    "logo": "S",
+    "color": "#0FAAFF",
+    "tags": [
+      "Spark",
+      "Statistics",
+      "Tableau"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://jobs.sap.com"
+  },
+  {
+    "id": 57,
+    "title": "Research Scientist - AI",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹58–70 LPA",
+    "category": "Data",
+    "logo": "A",
+    "color": "#A100FF",
+    "tags": [
+      "ML",
+      "Airflow",
+      "Python"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "id": 58,
+    "title": "Data Product Manager",
+    "company": "Cognizant",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹15–28 LPA",
+    "category": "Data",
+    "logo": "C",
+    "color": "#1A4CA1",
+    "tags": [
+      "Statistics",
+      "Tableau",
+      "SQL"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.cognizant.com"
+  },
+  {
+    "id": 59,
+    "title": "Statistician",
+    "company": "Capgemini",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹14–28 LPA",
+    "category": "Data",
+    "logo": "C",
+    "color": "#0070AD",
+    "tags": [
+      "Airflow",
+      "Python",
+      "PyTorch"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://www.capgemini.com/in-en/careers"
+  },
+  {
+    "id": 60,
+    "title": "Deep Learning Engineer",
+    "company": "Tech Mahindra",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹17–32 LPA",
+    "category": "Data",
+    "logo": "T",
+    "color": "#E31E24",
+    "tags": [
+      "Tableau",
+      "SQL",
+      "TensorFlow"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
+    "id": 61,
+    "title": "UX Designer",
+    "company": "LTIMindtree",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹6–14 LPA",
+    "category": "Design",
+    "logo": "L",
+    "color": "#EA0029",
+    "tags": [
+      "Figma",
+      "Prototyping",
+      "Adobe CC"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://careers.ltimindtree.com"
+  },
+  {
+    "id": 62,
+    "title": "UI Designer",
+    "company": "Zoho",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹9–18 LPA",
+    "category": "Design",
+    "logo": "Z",
+    "color": "#E42527",
+    "tags": [
+      "UX Research",
+      "Design Systems",
+      "Motion"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.zoho.com/careers"
+  },
+  {
+    "id": 63,
+    "title": "Senior Product Designer",
+    "company": "Freshworks",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹16–26 LPA",
+    "category": "Design",
+    "logo": "F",
+    "color": "#38C1A2",
+    "tags": [
+      "Prototyping",
+      "Adobe CC",
+      "Wireframing"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.freshworks.com/company/careers"
+  },
+  {
+    "id": 64,
+    "title": "Graphic Designer",
+    "company": "Myntra",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹15–26 LPA",
+    "category": "Design",
+    "logo": "M",
+    "color": "#FF3F6C",
+    "tags": [
+      "Design Systems",
+      "Motion",
+      "Figma"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.myntra.com"
+  },
+  {
+    "id": 65,
+    "title": "Visual Designer",
+    "company": "Nykaa",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹18–30 LPA",
+    "category": "Design",
+    "logo": "N",
+    "color": "#FC2779",
+    "tags": [
+      "Adobe CC",
+      "Wireframing",
+      "UX Research"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.nykaa.com/careers"
+  },
+  {
+    "id": 66,
+    "title": "UX Researcher",
+    "company": "CRED",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹21–34 LPA",
+    "category": "Design",
+    "logo": "C",
+    "color": "#1C1C1E",
+    "tags": [
+      "Motion",
+      "Figma",
+      "Prototyping"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://careers.cred.club"
+  },
+  {
+    "id": 67,
+    "title": "Design Lead",
+    "company": "Groww",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹32–46 LPA",
+    "category": "Design",
+    "logo": "G",
+    "color": "#00D09C",
+    "tags": [
+      "Wireframing",
+      "UX Research",
+      "Design Systems"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://groww.in/careers"
+  },
+  {
+    "id": 68,
+    "title": "Motion Designer",
+    "company": "Zerodha",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹27–42 LPA",
+    "category": "Design",
+    "logo": "Z",
+    "color": "#387ED1",
+    "tags": [
+      "Figma",
+      "Prototyping",
+      "Adobe CC"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://zerodha.com/careers"
+  },
+  {
+    "id": 69,
+    "title": "Interaction Designer",
+    "company": "Dream11",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹6–22 LPA",
+    "category": "Design",
+    "logo": "D",
+    "color": "#EC1D24",
+    "tags": [
+      "UX Research",
+      "Design Systems",
+      "Motion"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.dream11.com/careers"
+  },
+  {
+    "id": 70,
+    "title": "Brand Designer",
+    "company": "Uber India",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹9–26 LPA",
+    "category": "Design",
+    "logo": "U",
+    "color": "#000000",
+    "tags": [
+      "Prototyping",
+      "Adobe CC",
+      "Wireframing"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.uber.com/careers"
+  },
+  {
+    "id": 71,
+    "title": "Design Systems Engineer",
+    "company": "Google",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹12–30 LPA",
+    "category": "Design",
+    "logo": "G",
+    "color": "#4285F4",
+    "tags": [
+      "Design Systems",
+      "Motion",
+      "Figma"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.google.com"
+  },
+  {
+    "id": 72,
+    "title": "Junior UI/UX Designer",
+    "company": "Microsoft",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹8–27 LPA",
+    "category": "Design",
+    "logo": "M",
+    "color": "#00A4EF",
+    "tags": [
+      "Adobe CC",
+      "Wireframing",
+      "UX Research"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
+    "id": 73,
+    "title": "Creative Director",
+    "company": "Amazon",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹24–32 LPA",
+    "category": "Design",
+    "logo": "A",
+    "color": "#FF9900",
+    "tags": [
+      "Motion",
+      "Figma",
+      "Prototyping"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://amazon.jobs"
+  },
+  {
+    "id": 74,
+    "title": "Illustrator",
+    "company": "TCS",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹21–30 LPA",
+    "category": "Design",
+    "logo": "T",
+    "color": "#CC0000",
+    "tags": [
+      "Wireframing",
+      "UX Research",
+      "Design Systems"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://ibegin.tcs.com/iBegin"
+  },
+  {
+    "id": 75,
+    "title": "Product Design Intern",
+    "company": "Infosys",
+    "location": "Gurugram",
+    "type": "Internship",
+    "salary": "₹5–8 LPA",
+    "category": "Design",
+    "logo": "I",
+    "color": "#007CC3",
+    "tags": [
+      "Figma",
+      "Prototyping",
+      "Adobe CC"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://www.infosys.com/careers"
+  },
+  {
+    "id": 76,
+    "title": "UX Writer",
+    "company": "Wipro",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "₹27–38 LPA",
+    "category": "Design",
+    "logo": "W",
+    "color": "#974099",
+    "tags": [
+      "UX Research",
+      "Design Systems",
+      "Motion"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
+    "id": 77,
+    "title": "3D Designer",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹6–18 LPA",
+    "category": "Design",
+    "logo": "F",
+    "color": "#2874F0",
+    "tags": [
+      "Prototyping",
+      "Adobe CC",
+      "Wireframing"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.flipkartcareers.com"
+  },
+  {
+    "id": 78,
+    "title": "Design Manager",
+    "company": "Swiggy",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹12–25 LPA",
+    "category": "Design",
+    "logo": "S",
+    "color": "#FC8019",
+    "tags": [
+      "Design Systems",
+      "Motion",
+      "Figma"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
+    "id": 79,
+    "title": "Packaging Designer",
+    "company": "Zomato",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹12–26 LPA",
+    "category": "Design",
+    "logo": "Z",
+    "color": "#E23744",
+    "tags": [
+      "Adobe CC",
+      "Wireframing",
+      "UX Research"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://www.zomato.com/careers"
+  },
+  {
+    "id": 80,
+    "title": "Web Designer",
+    "company": "Razorpay",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹15–30 LPA",
+    "category": "Design",
+    "logo": "R",
+    "color": "#3395FF",
+    "tags": [
+      "Motion",
+      "Figma",
+      "Prototyping"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://razorpay.com/jobs"
+  },
+  {
+    "id": 81,
+    "title": "Digital Marketing Manager",
+    "company": "PhonePe",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹7–15 LPA",
+    "category": "Marketing",
+    "logo": "P",
+    "color": "#5F259F",
+    "tags": [
+      "SEO",
+      "Paid Ads",
+      "Analytics"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": 82,
+    "title": "SEO Specialist",
+    "company": "HCLTech",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹8–17 LPA",
+    "category": "Marketing",
+    "logo": "H",
+    "color": "#0070C0",
+    "tags": [
+      "Content",
+      "Social Media",
+      "Branding"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.hcltech.com/careers"
+  },
+  {
+    "id": 83,
+    "title": "Content Marketing Manager",
+    "company": "Ola",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹15–25 LPA",
+    "category": "Marketing",
+    "logo": "O",
+    "color": "#D4A017",
+    "tags": [
+      "Paid Ads",
+      "Analytics",
+      "CRM"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.olacabs.com/careers"
+  },
+  {
+    "id": 84,
+    "title": "Social Media Manager",
+    "company": "Paytm",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹19–30 LPA",
+    "category": "Marketing",
+    "logo": "P",
+    "color": "#00BAF2",
+    "tags": [
+      "Social Media",
+      "Branding",
+      "Copywriting"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://jobs.lever.co/paytm"
+  },
+  {
+    "id": 85,
+    "title": "Performance Marketing Manager",
+    "company": "Meesho",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹23–35 LPA",
+    "category": "Marketing",
+    "logo": "M",
+    "color": "#9B2AFF",
+    "tags": [
+      "Analytics",
+      "CRM",
+      "SEO"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://meesho.io/careers"
+  },
+  {
+    "id": 86,
+    "title": "Brand Manager",
+    "company": "BYJU'S",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹27–40 LPA",
+    "category": "Marketing",
+    "logo": "B",
+    "color": "#7B2FF7",
+    "tags": [
+      "Branding",
+      "Copywriting",
+      "Content"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://byjus.com/careers"
+  },
+  {
+    "id": 87,
+    "title": "Marketing Analyst",
+    "company": "Adobe",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹23–37 LPA",
+    "category": "Marketing",
+    "logo": "A",
+    "color": "#FA0F00",
+    "tags": [
+      "CRM",
+      "SEO",
+      "Paid Ads"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://careers.adobe.com"
+  },
+  {
+    "id": 88,
+    "title": "Growth Marketing Manager",
+    "company": "Salesforce",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹8–23 LPA",
+    "category": "Marketing",
+    "logo": "S",
+    "color": "#00A1E0",
+    "tags": [
+      "Copywriting",
+      "Content",
+      "Social Media"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://careers.salesforce.com"
+  },
+  {
+    "id": 89,
+    "title": "Email Marketing Specialist",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹9–25 LPA",
+    "category": "Marketing",
+    "logo": "O",
+    "color": "#F80000",
+    "tags": [
+      "SEO",
+      "Paid Ads",
+      "Analytics"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.oracle.com/careers"
+  },
+  {
+    "id": 90,
+    "title": "Marketing Operations Manager",
+    "company": "IBM",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹16–33 LPA",
+    "category": "Marketing",
+    "logo": "I",
+    "color": "#0F62FE",
+    "tags": [
+      "Content",
+      "Social Media",
+      "Branding"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.ibm.com/careers"
+  },
+  {
+    "id": 91,
+    "title": "Product Marketing Manager",
+    "company": "SAP Labs India",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹20–38 LPA",
+    "category": "Marketing",
+    "logo": "S",
+    "color": "#0FAAFF",
+    "tags": [
+      "Paid Ads",
+      "Analytics",
+      "CRM"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://jobs.sap.com"
+  },
+  {
+    "id": 92,
+    "title": "PR & Communications Manager",
+    "company": "Accenture",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹24–43 LPA",
+    "category": "Marketing",
+    "logo": "A",
+    "color": "#A100FF",
+    "tags": [
+      "Social Media",
+      "Branding",
+      "Copywriting"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "id": 93,
+    "title": "Influencer Marketing Manager",
+    "company": "Cognizant",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹28–36 LPA",
+    "category": "Marketing",
+    "logo": "C",
+    "color": "#1A4CA1",
+    "tags": [
+      "Analytics",
+      "CRM",
+      "SEO"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://careers.cognizant.com"
+  },
+  {
+    "id": 94,
+    "title": "Content Writer",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹24–33 LPA",
+    "category": "Marketing",
+    "logo": "C",
+    "color": "#0070AD",
+    "tags": [
+      "Branding",
+      "Copywriting",
+      "Content"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://www.capgemini.com/in-en/careers"
+  },
+  {
+    "id": 95,
+    "title": "Marketing Intern",
+    "company": "Tech Mahindra",
+    "location": "Gurugram",
+    "type": "Internship",
+    "salary": "₹5–8 LPA",
+    "category": "Marketing",
+    "logo": "T",
+    "color": "#E31E24",
+    "tags": [
+      "CRM",
+      "SEO",
+      "Paid Ads"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
+    "id": 96,
+    "title": "Campaign Manager",
+    "company": "LTIMindtree",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "₹14–25 LPA",
+    "category": "Marketing",
+    "logo": "L",
+    "color": "#EA0029",
+    "tags": [
+      "Copywriting",
+      "Content",
+      "Social Media"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.ltimindtree.com"
+  },
+  {
+    "id": 97,
+    "title": "ASO Specialist",
+    "company": "Zoho",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹13–25 LPA",
+    "category": "Marketing",
+    "logo": "Z",
+    "color": "#E42527",
+    "tags": [
+      "SEO",
+      "Paid Ads",
+      "Analytics"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.zoho.com/careers"
+  },
+  {
+    "id": 98,
+    "title": "Community Manager",
+    "company": "Freshworks",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹22–35 LPA",
+    "category": "Marketing",
+    "logo": "F",
+    "color": "#38C1A2",
+    "tags": [
+      "Content",
+      "Social Media",
+      "Branding"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://www.freshworks.com/company/careers"
+  },
+  {
+    "id": 99,
+    "title": "CRM Marketing Manager",
+    "company": "Myntra",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹26–40 LPA",
+    "category": "Marketing",
+    "logo": "M",
+    "color": "#FF3F6C",
+    "tags": [
+      "Paid Ads",
+      "Analytics",
+      "CRM"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://careers.myntra.com"
+  },
+  {
+    "id": 100,
+    "title": "Head of Marketing",
+    "company": "Nykaa",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹30–45 LPA",
+    "category": "Marketing",
+    "logo": "N",
+    "color": "#FC2779",
+    "tags": [
+      "Social Media",
+      "Branding",
+      "Copywriting"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://www.nykaa.com/careers"
+  },
+  {
+    "id": 101,
+    "title": "Financial Analyst",
+    "company": "CRED",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹5–13 LPA",
+    "category": "Finance",
+    "logo": "C",
+    "color": "#1C1C1E",
+    "tags": [
+      "Excel",
+      "SAP",
+      "IFRS"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://careers.cred.club"
+  },
+  {
+    "id": 102,
+    "title": "Senior Financial Analyst",
+    "company": "Groww",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹11–20 LPA",
+    "category": "Finance",
+    "logo": "G",
+    "color": "#00D09C",
+    "tags": [
+      "Financial Modeling",
+      "Tally",
+      "Forecasting"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://groww.in/careers"
+  },
+  {
+    "id": 103,
+    "title": "Accounts Manager",
+    "company": "Zerodha",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹15–25 LPA",
+    "category": "Finance",
+    "logo": "Z",
+    "color": "#387ED1",
+    "tags": [
+      "SAP",
+      "IFRS",
+      "Risk Analysis"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://zerodha.com/careers"
+  },
+  {
+    "id": 104,
+    "title": "Investment Analyst",
+    "company": "Dream11",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹14–25 LPA",
+    "category": "Finance",
+    "logo": "D",
+    "color": "#EC1D24",
+    "tags": [
+      "Tally",
+      "Forecasting",
+      "GST"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://www.dream11.com/careers"
+  },
+  {
+    "id": 105,
+    "title": "Finance Manager",
+    "company": "Uber India",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹23–35 LPA",
+    "category": "Finance",
+    "logo": "U",
+    "color": "#000000",
+    "tags": [
+      "IFRS",
+      "Risk Analysis",
+      "Excel"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.uber.com/careers"
+  },
+  {
+    "id": 106,
+    "title": "Chartered Accountant",
+    "company": "Google",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹20–33 LPA",
+    "category": "Finance",
+    "logo": "G",
+    "color": "#4285F4",
+    "tags": [
+      "Forecasting",
+      "GST",
+      "Financial Modeling"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://careers.google.com"
+  },
+  {
+    "id": 107,
+    "title": "Treasury Analyst",
+    "company": "Microsoft",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹23–37 LPA",
+    "category": "Finance",
+    "logo": "M",
+    "color": "#00A4EF",
+    "tags": [
+      "Risk Analysis",
+      "Excel",
+      "SAP"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://careers.microsoft.com"
+  },
+  {
+    "id": 108,
+    "title": "FP&A Manager",
+    "company": "Amazon",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹35–50 LPA",
+    "category": "Finance",
+    "logo": "A",
+    "color": "#FF9900",
+    "tags": [
+      "GST",
+      "Financial Modeling",
+      "Tally"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://amazon.jobs"
+  },
+  {
+    "id": 109,
+    "title": "Risk Analyst",
+    "company": "TCS",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹29–45 LPA",
+    "category": "Finance",
+    "logo": "T",
+    "color": "#CC0000",
+    "tags": [
+      "Excel",
+      "SAP",
+      "IFRS"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://ibegin.tcs.com/iBegin"
+  },
+  {
+    "id": 110,
+    "title": "Credit Analyst",
+    "company": "Infosys",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹32–49 LPA",
+    "category": "Finance",
+    "logo": "I",
+    "color": "#007CC3",
+    "tags": [
+      "Financial Modeling",
+      "Tally",
+      "Forecasting"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.infosys.com/careers"
+  },
+  {
+    "id": 111,
+    "title": "Tax Consultant",
+    "company": "Wipro",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹35–53 LPA",
+    "category": "Finance",
+    "logo": "W",
+    "color": "#974099",
+    "tags": [
+      "SAP",
+      "IFRS",
+      "Risk Analysis"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.wipro.com"
+  },
+  {
+    "id": 112,
+    "title": "Internal Auditor",
+    "company": "Flipkart",
+    "location": "Pune",
+    "type": "Internship",
+    "salary": "₹6–9 LPA",
+    "category": "Finance",
+    "logo": "F",
+    "color": "#2874F0",
+    "tags": [
+      "Tally",
+      "Forecasting",
+      "GST"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.flipkartcareers.com"
+  },
+  {
+    "id": 113,
+    "title": "Payroll Specialist",
+    "company": "Swiggy",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹6–14 LPA",
+    "category": "Finance",
+    "logo": "S",
+    "color": "#FC8019",
+    "tags": [
+      "IFRS",
+      "Risk Analysis",
+      "Excel"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://careers.swiggy.com"
+  },
+  {
+    "id": 114,
+    "title": "Finance Controller",
+    "company": "Zomato",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹9–18 LPA",
+    "category": "Finance",
+    "logo": "Z",
+    "color": "#E23744",
+    "tags": [
+      "Forecasting",
+      "GST",
+      "Financial Modeling"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://www.zomato.com/careers"
+  },
+  {
+    "id": 115,
+    "title": "Equity Research Analyst",
+    "company": "Razorpay",
+    "location": "Gurugram",
+    "type": "Contract",
+    "salary": "₹12–22 LPA",
+    "category": "Finance",
+    "logo": "R",
+    "color": "#3395FF",
+    "tags": [
+      "Risk Analysis",
+      "Excel",
+      "SAP"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://razorpay.com/jobs"
+  },
+  {
+    "id": 116,
+    "title": "Financial Planning Analyst",
+    "company": "PhonePe",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "₹15–26 LPA",
+    "category": "Finance",
+    "logo": "P",
+    "color": "#5F259F",
+    "tags": [
+      "GST",
+      "Financial Modeling",
+      "Tally"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.phonepe.com"
+  },
+  {
+    "id": 117,
+    "title": "Accounts Payable Executive",
+    "company": "HCLTech",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹10–22 LPA",
+    "category": "Finance",
+    "logo": "H",
+    "color": "#0070C0",
+    "tags": [
+      "Excel",
+      "SAP",
+      "IFRS"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://www.hcltech.com/careers"
+  },
+  {
+    "id": 118,
+    "title": "Compliance Officer",
+    "company": "Ola",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹21–34 LPA",
+    "category": "Finance",
+    "logo": "O",
+    "color": "#D4A017",
+    "tags": [
+      "Financial Modeling",
+      "Tally",
+      "Forecasting"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://www.olacabs.com/careers"
+  },
+  {
+    "id": 119,
+    "title": "CFO - Startup",
+    "company": "Paytm",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹24–38 LPA",
+    "category": "Finance",
+    "logo": "P",
+    "color": "#00BAF2",
+    "tags": [
+      "SAP",
+      "IFRS",
+      "Risk Analysis"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://jobs.lever.co/paytm"
+  },
+  {
+    "id": 120,
+    "title": "Business Finance Analyst",
+    "company": "Meesho",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹27–42 LPA",
+    "category": "Finance",
+    "logo": "M",
+    "color": "#9B2AFF",
+    "tags": [
+      "Tally",
+      "Forecasting",
+      "GST"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://meesho.io/careers"
+  },
+  {
+    "id": 121,
+    "title": "HR Manager",
+    "company": "BYJU'S",
+    "location": "Bangalore",
+    "type": "Remote",
+    "salary": "₹5–13 LPA",
+    "category": "HR",
+    "logo": "B",
+    "color": "#7B2FF7",
+    "tags": [
+      "Recruitment",
+      "Onboarding",
+      "Payroll"
+    ],
+    "posted": "Just now",
+    "featured": true,
+    "applyLink": "https://byjus.com/careers"
+  },
+  {
+    "id": 122,
+    "title": "Talent Acquisition Specialist",
+    "company": "Adobe",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹7–16 LPA",
+    "category": "HR",
+    "logo": "A",
+    "color": "#FA0F00",
+    "tags": [
+      "HRIS",
+      "Employee Relations",
+      "L&D"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.adobe.com"
+  },
+  {
+    "id": 123,
+    "title": "HR Business Partner",
+    "company": "Salesforce",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹10–20 LPA",
+    "category": "HR",
+    "logo": "S",
+    "color": "#00A1E0",
+    "tags": [
+      "Onboarding",
+      "Payroll",
+      "Compensation"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://careers.salesforce.com"
+  },
+  {
+    "id": 124,
+    "title": "Recruiter - Tech Hiring",
+    "company": "Oracle",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹13–24 LPA",
+    "category": "HR",
+    "logo": "O",
+    "color": "#F80000",
+    "tags": [
+      "Employee Relations",
+      "L&D",
+      "Recruitment"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://www.oracle.com/careers"
+  },
+  {
+    "id": 125,
+    "title": "HR Generalist",
+    "company": "IBM",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹16–28 LPA",
+    "category": "HR",
+    "logo": "I",
+    "color": "#0F62FE",
+    "tags": [
+      "Payroll",
+      "Compensation",
+      "HRIS"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.ibm.com/careers"
+  },
+  {
+    "id": 126,
+    "title": "Compensation & Benefits Analyst",
+    "company": "SAP Labs India",
+    "location": "Chennai",
+    "type": "Remote",
+    "salary": "₹19–32 LPA",
+    "category": "HR",
+    "logo": "S",
+    "color": "#0FAAFF",
+    "tags": [
+      "L&D",
+      "Recruitment",
+      "Onboarding"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://jobs.sap.com"
+  },
+  {
+    "id": 127,
+    "title": "Learning & Development Manager",
+    "company": "Accenture",
+    "location": "Gurugram",
+    "type": "Full-time",
+    "salary": "₹30–44 LPA",
+    "category": "HR",
+    "logo": "A",
+    "color": "#A100FF",
+    "tags": [
+      "Compensation",
+      "HRIS",
+      "Employee Relations"
+    ],
+    "posted": "1w ago",
+    "featured": true,
+    "applyLink": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "id": 128,
+    "title": "HR Operations Manager",
+    "company": "Cognizant",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "₹34–49 LPA",
+    "category": "HR",
+    "logo": "C",
+    "color": "#1A4CA1",
+    "tags": [
+      "Recruitment",
+      "Onboarding",
+      "Payroll"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://careers.cognizant.com"
+  },
+  {
+    "id": 129,
+    "title": "People Operations Lead",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "salary": "₹7–23 LPA",
+    "category": "HR",
+    "logo": "C",
+    "color": "#0070AD",
+    "tags": [
+      "HRIS",
+      "Employee Relations",
+      "L&D"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://www.capgemini.com/in-en/careers"
+  },
+  {
+    "id": 130,
+    "title": "Campus Recruiter",
+    "company": "Tech Mahindra",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹8–25 LPA",
+    "category": "HR",
+    "logo": "T",
+    "color": "#E31E24",
+    "tags": [
+      "Onboarding",
+      "Payroll",
+      "Compensation"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://careers.techmahindra.com"
+  },
+  {
+    "id": 131,
+    "title": "HR Coordinator",
+    "company": "LTIMindtree",
+    "location": "Mumbai",
+    "type": "Remote",
+    "salary": "₹6–24 LPA",
+    "category": "HR",
+    "logo": "L",
+    "color": "#EA0029",
+    "tags": [
+      "Employee Relations",
+      "L&D",
+      "Recruitment"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://careers.ltimindtree.com"
+  },
+  {
+    "id": 132,
+    "title": "Diversity & Inclusion Manager",
+    "company": "Zoho",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹19–38 LPA",
+    "category": "HR",
+    "logo": "Z",
+    "color": "#E42527",
+    "tags": [
+      "Payroll",
+      "Compensation",
+      "HRIS"
+    ],
+    "posted": "4d ago",
+    "featured": false,
+    "applyLink": "https://www.zoho.com/careers"
+  },
+  {
+    "id": 133,
+    "title": "Employee Relations Manager",
+    "company": "Freshworks",
+    "location": "Delhi NCR",
+    "type": "Full-time",
+    "salary": "₹23–31 LPA",
+    "category": "HR",
+    "logo": "F",
+    "color": "#38C1A2",
+    "tags": [
+      "L&D",
+      "Recruitment",
+      "Onboarding"
+    ],
+    "posted": "5d ago",
+    "featured": true,
+    "applyLink": "https://www.freshworks.com/company/careers"
+  },
+  {
+    "id": 134,
+    "title": "HRIS Analyst",
+    "company": "Myntra",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "₹20–29 LPA",
+    "category": "HR",
+    "logo": "M",
+    "color": "#FF3F6C",
+    "tags": [
+      "Compensation",
+      "HRIS",
+      "Employee Relations"
+    ],
+    "posted": "1w ago",
+    "featured": false,
+    "applyLink": "https://careers.myntra.com"
+  },
+  {
+    "id": 135,
+    "title": "Talent Management Lead",
+    "company": "Nykaa",
+    "location": "Gurugram",
+    "type": "Contract",
+    "salary": "₹31–41 LPA",
+    "category": "HR",
+    "logo": "N",
+    "color": "#FC2779",
+    "tags": [
+      "Recruitment",
+      "Onboarding",
+      "Payroll"
+    ],
+    "posted": "Just now",
+    "featured": false,
+    "applyLink": "https://www.nykaa.com/careers"
+  },
+  {
+    "id": 136,
+    "title": "Chief Human Resources Officer",
+    "company": "CRED",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "₹35–46 LPA",
+    "category": "HR",
+    "logo": "C",
+    "color": "#1C1C1E",
+    "tags": [
+      "HRIS",
+      "Employee Relations",
+      "L&D"
+    ],
+    "posted": "1d ago",
+    "featured": false,
+    "applyLink": "https://careers.cred.club"
+  },
+  {
+    "id": 137,
+    "title": "HR Intern",
+    "company": "Groww",
+    "location": "Bangalore",
+    "type": "Internship",
+    "salary": "₹3–6 LPA",
+    "category": "HR",
+    "logo": "G",
+    "color": "#00D09C",
+    "tags": [
+      "Onboarding",
+      "Payroll",
+      "Compensation"
+    ],
+    "posted": "2d ago",
+    "featured": false,
+    "applyLink": "https://groww.in/careers"
+  },
+  {
+    "id": 138,
+    "title": "Organizational Development Manager",
+    "company": "Zerodha",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "₹12–25 LPA",
+    "category": "HR",
+    "logo": "Z",
+    "color": "#387ED1",
+    "tags": [
+      "Employee Relations",
+      "L&D",
+      "Recruitment"
+    ],
+    "posted": "3d ago",
+    "featured": false,
+    "applyLink": "https://zerodha.com/careers"
+  },
+  {
+    "id": 139,
+    "title": "Payroll & HR Executive",
+    "company": "Dream11",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "₹7–21 LPA",
+    "category": "HR",
+    "logo": "D",
+    "color": "#EC1D24",
+    "tags": [
+      "Payroll",
+      "Compensation",
+      "HRIS"
+    ],
+    "posted": "4d ago",
+    "featured": true,
+    "applyLink": "https://www.dream11.com/careers"
+  },
+  {
+    "id": 140,
+    "title": "Head of People",
+    "company": "Uber India",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": "₹20–35 LPA",
+    "category": "HR",
+    "logo": "U",
+    "color": "#000000",
+    "tags": [
+      "L&D",
+      "Recruitment",
+      "Onboarding"
+    ],
+    "posted": "5d ago",
+    "featured": false,
+    "applyLink": "https://www.uber.com/careers"
+  }
+]

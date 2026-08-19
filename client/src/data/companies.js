@@ -1,0 +1,18 @@
+export const TOP_COMPANIES = [
+  { name: "Google", url: "https://careers.google.com", color: "#4285F4", icon: "G", openings: "2,400+" },
+  { name: "Microsoft", url: "https://careers.microsoft.com", color: "#00A4EF", icon: "Ms", openings: "1,800+" },
+  { name: "Amazon", url: "https://amazon.jobs", color: "#FF9900", icon: "A", openings: "3,200+" },
+  { name: "TCS", url: "https://ibegin.tcs.com/iBegin", color: "#CC0000", icon: "T", openings: "8,000+" },
+  { name: "Infosys", url: "https://www.infosys.com/careers", color: "#007CC3", icon: "I", openings: "5,000+" },
+  { name: "Wipro", url: "https://careers.wipro.com", color: "#974099", icon: "W", openings: "3,500+" },
+  { name: "Flipkart", url: "https://www.flipkartcareers.com", color: "#2874F0", icon: "F", openings: "900+" },
+  { name: "Swiggy", url: "https://careers.swiggy.com", color: "#FC8019", icon: "Sw", openings: "600+" },
+  { name: "Zomato", url: "https://www.zomato.com/careers", color: "#E23744", icon: "Z", openings: "400+" },
+  { name: "Razorpay", url: "https://razorpay.com/jobs", color: "#3395FF", icon: "R", openings: "300+" },
+  { name: "PhonePe", url: "https://careers.phonepe.com", color: "#5F259F", icon: "P", openings: "500+" },
+  { name: "HCL Tech", url: "https://www.hcltech.com/careers", color: "#0070C0", icon: "HC", openings: "4,000+" },
+  { name: "Ola", url: "https://www.olacabs.com/careers", color: "#D4A017", icon: "O", openings: "400+" },
+  { name: "Paytm", url: "https://jobs.lever.co/paytm", color: "#00BAF2", icon: "Pt", openings: "600+" },
+  { name: "Meesho", url: "https://meesho.io/careers", color: "#9B2AFF", icon: "Me", openings: "350+" },
+  { name: "BYJU'S", url: "https://byjus.com/careers", color: "#7B2FF7", icon: "B", openings: "700+" },
+];
