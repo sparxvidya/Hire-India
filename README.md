@@ -144,7 +144,7 @@ visible to anyone who opens dev tools.
   server, sessions use random opaque tokens with a 12-hour expiry, and
   login attempts are rate-limited (6 tries per 15 min per IP). Set
   `ADMIN_PASSWORD` in `server/.env` for anything beyond local testing
-  — the default (`xsparx@2024`) is fine for trying the app out, not
+  — the default  is fine for trying the app out, not
   for a real deployment. Tokens live in memory, so they reset on
   server restart and won't work across multiple server instances —
   move to Redis/a DB-backed session store if you scale beyond one
